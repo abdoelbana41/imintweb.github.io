@@ -2537,6 +2537,7 @@ a {
 
 ::selection {
     color: #fff
+    background: #799f0c;
 }
 
 .container {
