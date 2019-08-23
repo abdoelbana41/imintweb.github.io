@@ -2536,8 +2536,10 @@ a {
 }
 
 ::selection {
-    color: #fff;
-    background:#799f0c;
+  background: #799f0c; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #799f0c; /* Gecko Browsers */
 }
 
 .container {
