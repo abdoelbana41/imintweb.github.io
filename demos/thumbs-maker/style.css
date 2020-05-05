@@ -77,10 +77,6 @@
     user-select: none;
 }
 
-html {
-    opacity: 1
-}
-
 #content-container {
     position: absolute;
     content: '';
