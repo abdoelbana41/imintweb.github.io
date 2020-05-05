@@ -81,23 +81,6 @@ html {
     opacity: 1
 }
 
-body {
-    direction: rtl;
-    display: table;
-    margin: 0 auto;
-    font-family: Tajawal, 'Google Sans', 'Segoe UI', sans-serif;
-}
-
-footer.footer {
-    margin: 50px auto;
-    text-align: center;
-    user-select: none;
-}
-
-footer.footer a {
-    font-weight: bold;
-}
-
 #content-container {
     position: absolute;
     content: '';
